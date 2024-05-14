@@ -149,8 +149,6 @@ export default function AddAsset({onClose}){
             AddAsset
           </Button>
         </Form.Item>
-      
-        <p style={{fontWeight:'bold'}}>So you admit the fact you like suck dick?</p>
     <Flex align="center">
         <img src={coin.icon} alt={coin.name} style={{width:'40px'}}></img>
         <Typography.Title level={2}> {coin.name} </Typography.Title>
